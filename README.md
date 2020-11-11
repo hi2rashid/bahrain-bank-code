@@ -1,20 +1,4 @@
-<style type="text/css">
-	table.tableizer-table {
-		font-size: 12px;
-		border: 1px solid #CCC; 
-		font-family: Arial, Helvetica, sans-serif;
-	} 
-	.tableizer-table td {
-		padding: 4px;
-		margin: 3px;
-		border: 1px solid #CCC;
-	}
-	.tableizer-table th {
-		background-color: #104E8B; 
-		color: #FFF;
-		font-weight: bold;
-	}
-</style>
+
 <table class="tableizer-table">
 <thead><tr class="tableizer-firstrow"><th>Bank Name</th><th>Swift Code</th><th>First 4 BIC</th><th>Clearing Code</th><th>License Type</th><th>Bahrain Website</th></tr></thead><tbody>
  <tr><td>Ahli United Bank B.S.C. AUB</td><td>AUBBBHBM</td><td>AUBB</td><td>AUBBBHMA</td><td>Retail Conventional Banks</td><td>&nbsp;</td></tr>
